@@ -56,10 +56,7 @@ A console-based navigation system built in **C++** that computes the shortest pa
 IIT-KGP-campus-navigation/
 │── project1Dijkstra.cpp
 │── README.md
-└── screenshots/
-    ├── home.png
-    ├── input.png
-    └── output.png
+└── .gitignore
 ```
 
 ---
